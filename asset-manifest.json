@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/my-app/static/js/main.6a13224f.chunk.js",
-    "main.js.map": "/my-app/static/js/main.6a13224f.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.922ac3ad.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.922ac3ad.js.map",
-    "static/js/2.4e63a2bc.chunk.js": "/my-app/static/js/2.4e63a2bc.chunk.js",
-    "static/js/2.4e63a2bc.chunk.js.map": "/my-app/static/js/2.4e63a2bc.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.f7f18fb2e7e842071a193e5ef713fd77.js": "/my-app/precache-manifest.f7f18fb2e7e842071a193e5ef713fd77.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/my-app/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.4e63a2bc.chunk.js.LICENSE.txt": "/my-app/static/js/2.4e63a2bc.chunk.js.LICENSE.txt",
-    "static/media/CV.pdf": "/my-app/static/media/CV.12ed0b26.pdf",
-    "static/media/Transcript.pdf": "/my-app/static/media/Transcript.1167a972.pdf"
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.fbbd1366.chunk.js",
+    "main.js.map": "/static/js/main.fbbd1366.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.4e63a2bc.chunk.js": "/static/js/2.4e63a2bc.chunk.js",
+    "static/js/2.4e63a2bc.chunk.js.map": "/static/js/2.4e63a2bc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1754bb3efbd3e0f32a779e55209f36ca.js": "/precache-manifest.1754bb3efbd3e0f32a779e55209f36ca.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4e63a2bc.chunk.js.LICENSE.txt": "/static/js/2.4e63a2bc.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/static/media/CV.12ed0b26.pdf",
+    "static/media/Transcript.pdf": "/static/media/Transcript.1167a972.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.922ac3ad.js",
+    "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.4e63a2bc.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.6a13224f.chunk.js"
+    "static/js/main.fbbd1366.chunk.js"
   ]
 }
